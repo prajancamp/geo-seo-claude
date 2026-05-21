@@ -51,5 +51,7 @@ Experience is the newest E-E-A-T dimension. It rewards content that demonstrates
 - 6-10: Minimal experience signals. Some specifics but mostly theoretical.
 - 11-15: Moderate experience. Clear evidence of familiarity with the topic.
 - 16-20: Strong experience. Multiple first-hand signals, original data or case studies.
-- 21-25: Exceptional. Rich with original research, data, and first-hand accounts.
-<!-- personal note: in practice I rarely see scores above 18 for B2B SaaS content; adjust expectations accordingly -->
+- 21-25: Exceptional. Rich with original research, detailed case studies, and verifiable first-hand evidence.
+<!-- Note to self: scores 16-20 vs 21-25 can be tricky to distinguish in practice;
+     look for whether original data/research is *verifiable* (links, citations, raw numbers)
+     as the key differentiator for the top tier -->
