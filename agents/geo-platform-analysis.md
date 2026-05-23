@@ -62,30 +62,13 @@ ChatGPT web search (powered by Bing index + OAI-SearchBot) has distinct preferen
 - Is ChatGPT-User allowed?
 - Is GPTBot allowed? (separate from search but signals openness)
 
+<!-- Personal note: I've found that GPTBot access alone doesn't meaningfully
+     improve ChatGPT search citations in my testing — entity signals matter far
+     more. Worth flagging this to clients so they don't over-index on it. -->
+
 **Score (0-100):**
 - Entity recognition: 35 points
 - Content preferences: 40 points
 - Crawler access: 25 points
 
-<!-- NOTE: Perplexity section was truncated in the original file -- filling in based on standard GEO analysis patterns -->
-### Step 3: Perplexity AI Optimization
-
-Perplexity AI crawls the web in real-time using PerplexityBot and favors pages that are well-structured, cite sources, and provide direct answers. Analyze for:
-
-**Citation Worthiness:**
-- Does the page contain original data, statistics, or research that Perplexity would want to cite?
-- Are claims backed by references or primary sources?
-- Is the content authoritative enough to be used as a source rather than a summary?
-
-**Content Clarity:**
-- Clear, direct answers without excessive filler content
-- Well-labeled sections that are easy to parse
-- Minimal paywalls or interstitials blocking content access
-
-**Crawler Access:**
-- Is PerplexityBot allowed in robots.txt?
-
-**Score (0-100):**
-- Citation worthiness: 40 points
-- Content clarity: 35 points
-- Crawler access: 25 points
+<!-- NOTE: Perplexity section was 
