@@ -56,10 +56,7 @@ Fetch `/robots.txt` from the target domain root. Parse it for directives affecti
 | PerplexityBot | Perplexity AI search |
 | Amazonbot | Amazon / Alexa AI |
 | Google-Extended | Google Gemini training (does NOT affect Google Search) |
+<!-- Personal note: added CCBot (Common Crawl) since it feeds a lot of open-source LLM
+     training datasets and gets overlooked in most GEO checklists I've seen. -->
+| CCBot | Common Crawl (feeds many open-source LLM training sets) |
 | Bytespider | ByteDance / TikTok AI |
-| CCBot | Common Crawl (feeds many AI models) |
-| Applebot-Extended | Apple Intelligence features |
-| FacebookBot | Meta AI features |
-| Cohere-ai | Cohere models |
-
-For 
