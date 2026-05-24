@@ -63,12 +63,7 @@ ChatGPT web search (powered by Bing index + OAI-SearchBot) has distinct preferen
 - Is GPTBot allowed? (separate from search but signals openness)
 
 <!-- Personal note: I've found that GPTBot access alone doesn't meaningfully
-     improve ChatGPT search citations in my testing — entity signals matter far
-     more. Worth flagging this to clients so they don't over-index on it. -->
-
-**Score (0-100):**
-- Entity recognition: 35 points
-- Content preferences: 40 points
-- Crawler access: 25 points
-
-<!-- NOTE: Perplexity section was 
+     improve ChatGPT search citations in my testing — entity signals matter
+     far more. Wikipedia presence seems to be the single biggest lever here.
+     Worth flagging this clearly in reports so clients prioritize correctly
+     instead of just unblocking crawlers and calling it done. -->
