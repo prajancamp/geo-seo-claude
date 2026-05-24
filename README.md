@@ -92,4 +92,6 @@ Open Claude Code and use these commands:
 | `/geo platforms <url>` | Platform-specific optimization |
 | `/geo schema <url>` | Structured data analysis & generation |
 
-> **Personal note:** I primarily use `/geo audit` and `/geo citability` — those two cover most of what I need day-to-day. The `quick` command is handy for a sanity check before publishing a new post.
+> **Personal note:** I mostly use `/geo audit` and `/geo citability` day-to-day.
+> The `/geo quick` command is handy for a fast sanity check before publishing a new page.
+
