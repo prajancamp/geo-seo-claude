@@ -52,4 +52,4 @@ Experience is the newest E-E-A-T dimension. It rewards content that demonstrates
 - 11-15: Moderate experience. Clear evidence of familiarity with the topic.
 - 16-20: Strong experience. Multiple first-hand signals, original data or case studies.
 - 21-25: Exceptional. Rich with original research, detailed case studies, and verifiable first-hand evidence.
-<!-- NOTE: In practice I rarely see pages score above 18 here unless they have a dedicated research/data section. Adjust expectations accordingly. -->
+<!-- Note to self: I find scores of 16+ are rare in the wild; most decent blog posts land 11-14. Adjust expectations when benchmarking clients against competitors. -->
